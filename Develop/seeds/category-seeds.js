@@ -1,5 +1,5 @@
 const { Category } = require('../../models');
-
+const { Product } = require('../models');
 const categoryData = [
   {
     category_name: 'Shirts',

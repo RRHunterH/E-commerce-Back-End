@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "mysql2": "^3.9.2",
+    "sequelize": "^6.37.1"
+  },
+  "scripts": {
+    "seed": "node Develop/seeds/index.js"
+  }
+}
